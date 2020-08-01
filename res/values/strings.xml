@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart menu</string>
+    <string name ="discoverTime">Beacon discovered</string>
+    <string name ="disappearTime">Beacon disappeared</string>
+</resources>
